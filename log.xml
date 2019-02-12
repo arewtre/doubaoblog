@@ -1,0 +1,1407 @@
+2018-11-19 09:35:10 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591309</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6625379223697304102</MsgId>
+</xml>
+2018-11-19 09:35:10 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591310</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 09:35:10
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 方倍工作室]]></Content>
+</xml>
+2018-11-19 09:36:16 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591375</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[请问在吗？]]></Content>
+<MsgId>6625379507165145640</MsgId>
+</xml>
+2018-11-19 09:36:16 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591376</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-19 09:36:24 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591384</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文本]]></Content>
+<MsgId>6625379545819851305</MsgId>
+</xml>
+2018-11-19 09:36:24 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591384</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[这是个文本消息]]></Content>
+</xml>
+2018-11-19 09:36:32 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591391</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图文]]></Content>
+<MsgId>6625379575884622379</MsgId>
+</xml>
+2018-11-19 09:36:32 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591392</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[]]></Description>
+            <PicUrl><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></PicUrl>
+            <Url><![CDATA[http://m.cnblogs.com/?u=txw1958]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[]]></Description>
+            <PicUrl><![CDATA[http://d.hiphotos.bdimg.com/wisegame/pic/item/f3529822720e0cf3ac9f1ada0846f21fbe09aaa3.jpg]]></PicUrl>
+            <Url><![CDATA[http://m.cnblogs.com/?u=txw1958]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[]]></Description>
+            <PicUrl><![CDATA[http://g.hiphotos.bdimg.com/wisegame/pic/item/18cb0a46f21fbe090d338acc6a600c338644adfd.jpg]]></PicUrl>
+            <Url><![CDATA[http://m.cnblogs.com/?u=txw1958]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 09:37:25 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591444</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[单图文]]></Content>
+<MsgId>6625379803517889068</MsgId>
+</xml>
+2018-11-19 09:37:25 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591445</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>1</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[单图文标题]]></Title>
+            <Description><![CDATA[单图文内容]]></Description>
+            <PicUrl><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></PicUrl>
+            <Url><![CDATA[http://m.cnblogs.com/?u=txw1958]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 09:38:48 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591527</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图文]]></Content>
+<MsgId>6625380160000174637</MsgId>
+</xml>
+2018-11-19 09:38:48 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591528</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 09:39:05 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591544</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[音乐]]></Content>
+<MsgId>6625380233014618670</MsgId>
+</xml>
+2018-11-19 09:39:05 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591545</CreateTime>
+    <MsgType><![CDATA[music]]></MsgType>
+    <Music>
+        <Title><![CDATA[最炫民族风]]></Title>
+        <Description><![CDATA[歌手：凤凰传奇]]></Description>
+        <MusicUrl><![CDATA[http://121.199.4.61/music/zxmzf.mp3]]></MusicUrl>
+        <HQMusicUrl><![CDATA[http://121.199.4.61/music/zxmzf.mp3]]></HQMusicUrl>
+    </Music>
+</xml>
+2018-11-19 09:39:57 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591596</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[表情]]></Content>
+<MsgId>6625380456352918063</MsgId>
+</xml>
+2018-11-19 09:39:57 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591597</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[中国：🇨🇳
+仙人掌：🌵]]></Content>
+</xml>
+2018-11-19 09:40:08 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591607</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图文]]></Content>
+<MsgId>6625380503597558321</MsgId>
+</xml>
+2018-11-19 09:40:08 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591608</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 09:41:20 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591679</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>32.057276</Location_X>
+<Location_Y>118.798296</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[南京市太平北路(南京市玄武区)]]></Label>
+<MsgId>6625380812835203634</MsgId>
+</xml>
+2018-11-19 09:41:20 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591680</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你发送的是位置，经度为：118.798296；纬度为：32.057276；缩放级别为：15；位置为：南京市太平北路(南京市玄武区)]]></Content>
+</xml>
+2018-11-19 09:41:55 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591714</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1222]]></Content>
+<MsgId>6625380963159058996</MsgId>
+</xml>
+2018-11-19 09:41:55 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591715</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 09:41:55
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 09:43:06 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591785</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625381268101737014</MsgId>
+</xml>
+2018-11-19 09:43:06 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591786</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 09:43:06
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 09:43:26 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591805</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625381354001082936</MsgId>
+</xml>
+2018-11-19 09:43:26 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591806</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-19 09:44:56 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542591895</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[多图文]]></Content>
+<MsgId>6625381740548139577</MsgId>
+</xml>
+2018-11-19 09:44:56 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542591896</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 09:50:36 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542592234</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/mUw6DMB6IhFiap0sd7VqU39h3NwrDKl8MMW8O4qRRJKNib9RugDTWqWmZF39lDd2kyqcYSj1Qoh3hbTW2bzvoXFg/0]]></PicUrl>
+<MsgId>6625383196542052922</MsgId>
+<MediaId><![CDATA[fswDCKDF2LJa1smsj8aPAZXmJ6anCZgEPD6wlZhgYyJmMPvf65o6s_OyDIt1xTV5]]></MediaId>
+</xml>
+2018-11-19 09:50:36 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542592236</CreateTime>
+    <MsgType><![CDATA[image]]></MsgType>
+    <Image>
+        <MediaId><![CDATA[fswDCKDF2LJa1smsj8aPAZXmJ6anCZgEPD6wlZhgYyJmMPvf65o6s_OyDIt1xTV5]]></MediaId>
+    </Image>
+</xml>
+2018-11-19 09:51:01 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542592260</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/::B]]></Content>
+<MsgId>6625383308211202620</MsgId>
+</xml>
+2018-11-19 09:51:01 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542592261</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 09:51:01
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 10:41:47 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595307</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[location_select]]></Event>
+<EventKey><![CDATA[rselfmenu_2_0]]></EventKey>
+<SendLocationInfo><Location_X><![CDATA[32.057287167771534]]></Location_X>
+<Location_Y><![CDATA[118.79833999156008]]></Location_Y>
+<Scale><![CDATA[15]]></Scale>
+<Label><![CDATA[南京市太平北路(南京市玄武区)]]></Label>
+<Poiname><![CDATA[太平北路(南京市玄武区)]]></Poiname>
+</SendLocationInfo>
+</xml>
+2018-11-19 10:41:47 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595307</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[发送位置：标签 南京市太平北路(南京市玄武区)]]></Content>
+</xml>
+2018-11-19 10:41:47 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595307</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>32.057287</Location_X>
+<Location_Y>118.798340</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[南京市太平北路(南京市玄武区)]]></Label>
+<MsgId>6625396394958087492</MsgId>
+</xml>
+2018-11-19 10:41:47 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595307</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你发送的是位置，经度为：118.798340；纬度为：32.057287；缩放级别为：15；位置为：南京市太平北路(南京市玄武区)]]></Content>
+</xml>
+2018-11-19 10:41:51 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595310</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[FANGBEI]]></EventKey>
+</xml>
+2018-11-19 10:41:51 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595311</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[点击菜单：FANGBEI]]></Content>
+</xml>
+2018-11-19 10:42:01 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595320</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[rselfmenu_0_0]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[http://weixin.qq.com/r/4il3b8HEcpwNrYUM93zw]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2018-11-19 10:42:01 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595321</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[扫码带提示：类型 二维码 结果：http://weixin.qq.com/r/4il3b8HEcpwNrYUM93zw]]></Content>
+</xml>
+2018-11-19 10:42:10 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595330</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[pic_weixin]]></Event>
+<EventKey><![CDATA[rselfmenu_1_2]]></EventKey>
+<SendPicsInfo><Count>0</Count>
+<PicList></PicList>
+</SendPicsInfo>
+</xml>
+2018-11-19 10:42:10 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595330</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[相册发图：数量 0]]></Content>
+</xml>
+2018-11-19 10:42:12 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595331</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/mUw6DMB6IhFiap0sd7VqU39h3NwrDKl8MzibU4br9CQJQ17ekgZzysNMkVWIZVRPs3e4ADhUicNccTQYNnaUf7zBQ/0]]></PicUrl>
+<MsgId>6625396498037302600</MsgId>
+<MediaId><![CDATA[1fMbkqOiMBjtKkZ1N9OaGU2-pNN7rhFgm2PVwLphtaY5nSfXlEiHvDN7HR09IH-c]]></MediaId>
+</xml>
+2018-11-19 10:42:12 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595332</CreateTime>
+    <MsgType><![CDATA[image]]></MsgType>
+    <Image>
+        <MediaId><![CDATA[1fMbkqOiMBjtKkZ1N9OaGU2-pNN7rhFgm2PVwLphtaY5nSfXlEiHvDN7HR09IH-c]]></MediaId>
+    </Image>
+</xml>
+2018-11-19 10:42:14 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595334</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/FbJx9ThD6Df8ghBEIkmS4g]]></EventKey>
+<MenuId>430017044</MenuId>
+</xml>
+2018-11-19 10:42:14 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595334</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 http://mp.weixin.qq.com/s/FbJx9ThD6Df8ghBEIkmS4g]]></Content>
+</xml>
+2018-11-19 10:42:44 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595363</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[FANGBEI]]></EventKey>
+</xml>
+2018-11-19 10:42:44 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595364</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[点击菜单：FANGBEI]]></Content>
+</xml>
+2018-11-19 10:48:45 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542595724</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[多图文]]></Content>
+<MsgId>6625398185959449931</MsgId>
+</xml>
+2018-11-19 10:48:45 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542595725</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 10:58:22 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542596301</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图文]]></Content>
+<MsgId>6625400664155579724</MsgId>
+</xml>
+2018-11-19 10:58:22 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542596302</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 11:00:09 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542596408</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[图文]]></Content>
+<MsgId>6625401123717080397</MsgId>
+</xml>
+2018-11-19 11:00:09 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542596409</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[多图文1标题]]></Title>
+            <Description><![CDATA[是的华盛顿]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文2标题]]></Title>
+            <Description><![CDATA[是的公司的个]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[多图文3标题]]></Title>
+            <Description><![CDATA[十三癫和尚]]></Description>
+            <PicUrl><![CDATA[http://linxinran.cn/log.png]]></PicUrl>
+            <Url><![CDATA[http://linxinran.cn]]></Url>
+        </item>
+    </Articles>
+</xml>
+2018-11-19 11:40:38 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598838</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[嘎嘎]]></Content>
+<MsgId>6625411560506075711</MsgId>
+</xml>
+2018-11-19 11:40:38 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542598838</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 11:40:38
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 11:40:47 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598846</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[是的]]></Content>
+<MsgId>6625411594865814082</MsgId>
+</xml>
+2018-11-19 11:40:47 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542598847</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 11:40:47
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 11:40:58 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598856</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你谁啊]]></Content>
+<MsgId>6625411637815487045</MsgId>
+</xml>
+2018-11-19 11:40:58 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542598858</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[2018-11-19 11:40:58
+OpenID：omiQgxOgS_zzmUIsMgu-UbNy7MOE
+技术支持 豆宝网]]></Content>
+</xml>
+2018-11-19 11:41:24 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598883</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我也是]]></Content>
+<MsgId>6625411753779604040</MsgId>
+</xml>
+2018-11-19 11:42:02 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598921</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[是的]]></Content>
+<MsgId>6625411916988361291</MsgId>
+</xml>
+2018-11-19 11:42:02 T 
+
+2018-11-19 11:42:17 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598936</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[今天天气怎么样？]]></Content>
+<MsgId>6625411981412870733</MsgId>
+</xml>
+2018-11-19 11:42:17 T 
+
+2018-11-19 11:42:22 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598941</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[南京啊]]></Content>
+<MsgId>6625412002887707215</MsgId>
+</xml>
+2018-11-19 11:42:22 T 
+
+2018-11-19 11:42:35 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598954</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[南京哪里比较好玩]]></Content>
+<MsgId>6625412058722282065</MsgId>
+</xml>
+2018-11-19 11:42:35 T 
+
+2018-11-19 11:42:41 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598960</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[可以啊]]></Content>
+<MsgId>6625412084492085843</MsgId>
+</xml>
+2018-11-19 11:42:41 T 
+
+2018-11-19 11:42:44 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598963</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[是的]]></Content>
+<MsgId>6625412097376987733</MsgId>
+</xml>
+2018-11-19 11:42:44 T 
+
+2018-11-19 11:42:58 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598977</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[霍金死了没有？]]></Content>
+<MsgId>6625412157506529879</MsgId>
+</xml>
+2018-11-19 11:42:58 T 
+
+2018-11-19 11:43:03 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598982</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我擦]]></Content>
+<MsgId>6625412178981366361</MsgId>
+</xml>
+2018-11-19 11:43:03 T 
+
+2018-11-19 11:43:13 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598993</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[好吧]]></Content>
+<MsgId>6625412226226006619</MsgId>
+</xml>
+2018-11-19 11:43:13 T 
+
+2018-11-19 11:43:17 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542598996</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>32.055910</Location_X>
+<Location_Y>118.798460</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[南京市东南大学(四牌楼校区)]]></Label>
+<MsgId>6625412239110908509</MsgId>
+</xml>
+2018-11-19 11:43:17 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542598997</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你发送的是位置，经度为：118.798460；纬度为：32.055910；缩放级别为：15；位置为：南京市东南大学(四牌楼校区)]]></Content>
+</xml>
+2018-11-19 11:44:50 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542599089</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:44:50 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542599090</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2018-11-19 11:45:02 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542599101</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:45:02 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542599102</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注豆宝网 官网: <a href='http://linxinran.cn'>点击跳转官网</a>
+小程序:<a href='http://www.qq.com' data-miniprogram-appid='wxb73f46cea17e1d7f' data-miniprogram-path='pages/index/index'>点击跳小程序</a>]]></Content>
+</xml>
+2018-11-19 11:45:28 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542599128</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:45:28 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542599128</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2018-11-19 11:45:31 R 
+<xml><ToUserName><![CDATA[gh_7dc35a34a9fa]]></ToUserName>
+<FromUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></FromUserName>
+<CreateTime>1542599130</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:45:31 T 
+<xml>
+    <ToUserName><![CDATA[omiQgxOgS_zzmUIsMgu-UbNy7MOE]]></ToUserName>
+    <FromUserName><![CDATA[gh_7dc35a34a9fa]]></FromUserName>
+    <CreateTime>1542599131</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注豆宝网 
+官网: <a href='http://linxinran.cn'>点击跳转官网</a>
+小程序:<a href='http://www.qq.com' data-miniprogram-appid='wxb73f46cea17e1d7f' data-miniprogram-path='pages/index/index'>点击跳小程序</a>]]></Content>
+</xml>
+2018-11-19 11:45:59 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542599158</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:45:59 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542599159</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2018-11-19 11:46:54 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542599214</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 11:46:54 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542599214</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注豆宝网 
+官网: <a href='http://linxinran.cn'>点击跳转官网</a>
+小程序:<a href='http://www.qq.com' data-miniprogram-appid='wxb73f46cea17e1d7f' data-miniprogram-path='pages/index/index'>点击跳小程序</a>]]></Content>
+</xml>
+2018-11-19 11:47:02 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542599221</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[location_select]]></Event>
+<EventKey><![CDATA[rselfmenu_2_0]]></EventKey>
+<SendLocationInfo><Location_X><![CDATA[32.057306119864215]]></Location_X>
+<Location_Y><![CDATA[118.79832930065602]]></Location_Y>
+<Scale><![CDATA[15]]></Scale>
+<Label><![CDATA[南京市太平北路(南京市玄武区)]]></Label>
+<Poiname><![CDATA[太平北路(南京市玄武区)]]></Poiname>
+</SendLocationInfo>
+</xml>
+2018-11-19 11:47:02 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542599222</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[发送位置：标签 南京市太平北路(南京市玄武区)]]></Content>
+</xml>
+2018-11-19 11:47:02 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542599221</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>32.057306</Location_X>
+<Location_Y>118.798329</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[南京市太平北路(南京市玄武区)]]></Label>
+<MsgId>6625413205460084047</MsgId>
+</xml>
+2018-11-19 11:47:02 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542599222</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你发送的是位置，经度为：118.798329；纬度为：32.057306；缩放级别为：15；位置为：南京市太平北路(南京市玄武区)]]></Content>
+</xml>
+2018-11-19 11:47:09 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542599228</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625413235524855121</MsgId>
+</xml>
+2018-11-19 11:47:09 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542599229</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-19 14:53:04 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542610382</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[test]]></EventKey>
+<Ticket><![CDATA[gQGv8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyOVlSQkVfR2ZkU2kxVTJvWDFyY28AAgSCXfJbAwSAOgkA]]></Ticket>
+</xml>
+2018-11-19 14:53:04 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542610384</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[扫描场景 test]]></Content>
+</xml>
+2018-11-19 14:55:57 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542610556</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[test]]></EventKey>
+<Ticket><![CDATA[gQGv8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyOVlSQkVfR2ZkU2kxVTJvWDFyY28AAgSCXfJbAwSAOgkA]]></Ticket>
+</xml>
+2018-11-19 14:55:57 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542610557</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[扫描场景 test]]></Content>
+</xml>
+2018-11-19 15:05:15 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542611115</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA_8008008001]]></EventKey>
+<Ticket><![CDATA[gQH07zwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyTmtvbEU3R2ZkU2kxVWtyWE5yY3YAAgSUYPJbAwSAOgkA]]></Ticket>
+</xml>
+2018-11-19 15:05:15 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542611115</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[扫描场景 oqo920ghrXN_yw6sDZXoJM4-TYCA_8008008001]]></Content>
+</xml>
+2018-11-19 15:05:39 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542611138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2018-11-19 15:05:39 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542611139</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[取消关注]]></Content>
+</xml>
+2018-11-19 15:05:42 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542611141</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_oqo920ghrXN_yw6sDZXoJM4-TYCA_8008008001]]></EventKey>
+<Ticket><![CDATA[gQH07zwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyTmtvbEU3R2ZkU2kxVWtyWE5yY3YAAgSUYPJbAwSAOgkA]]></Ticket>
+</xml>
+2018-11-19 15:05:42 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542611142</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注豆宝网 
+来自二维码场景 oqo920ghrXN_yw6sDZXoJM4-TYCA_8008008001]]></Content>
+</xml>
+2018-11-19 15:10:39 R 
+<xml><ToUserName><![CDATA[gh_59e08db0631c]]></ToUserName>
+<FromUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></FromUserName>
+<CreateTime>1542611438</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/FbJx9ThD6Df8ghBEIkmS4g]]></EventKey>
+<MenuId>430017044</MenuId>
+</xml>
+2018-11-19 15:10:39 T 
+<xml>
+    <ToUserName><![CDATA[oqo920ghrXN_yw6sDZXoJM4-TYCA]]></ToUserName>
+    <FromUserName><![CDATA[gh_59e08db0631c]]></FromUserName>
+    <CreateTime>1542611439</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[跳转链接 http://mp.weixin.qq.com/s/FbJx9ThD6Df8ghBEIkmS4g]]></Content>
+</xml>
+2018-11-19 17:36:29 R 
+235235
+2018-11-19 17:37:23 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620242</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[么么么]]></Content>
+<MsgId>6625503489964498844</MsgId>
+</xml>
+2018-11-19 17:37:23 T 
+
+2018-11-19 17:37:57 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620275</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[啦啦]]></Content>
+<MsgId>6625503631698419614</MsgId>
+</xml>
+2018-11-19 17:37:57 T 
+
+2018-11-19 17:38:40 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620319</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[啦]]></Content>
+<MsgId>6625503820676980640</MsgId>
+</xml>
+2018-11-19 17:38:40 T 
+
+2018-11-19 17:39:05 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620344</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[啦啦]]></Content>
+<MsgId>6625503928051163041</MsgId>
+</xml>
+2018-11-19 17:39:06 T 
+
+2018-11-19 17:43:55 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620633</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[客客]]></Content>
+<MsgId>6625505169296711588</MsgId>
+</xml>
+2018-11-19 17:43:55 T 
+
+2018-11-19 17:47:04 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542620823</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>32.055371</Location_X>
+<Location_Y>118.798108</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[南京市东南大学(四牌楼校区)]]></Label>
+<MsgId>6625505985340497829</MsgId>
+</xml>
+2018-11-19 17:47:04 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542620824</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[你发送的是位置，经度为：118.798108；纬度为：32.055371；缩放级别为：15；位置为：南京市东南大学(四牌楼校区)]]></Content>
+</xml>
+2018-11-20 09:05:55 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542675954</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[5756788]]></Content>
+<MsgId>6625742771182493607</MsgId>
+</xml>
+2018-11-20 09:05:56 T 
+
+2018-11-20 09:06:36 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542675996</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[付电话费的和]]></Content>
+<MsgId>6625742951571120040</MsgId>
+</xml>
+2018-11-20 09:06:37 T 
+
+2018-11-20 09:07:09 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542676029</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[防火防盗和]]></Content>
+<MsgId>6625743093305040810</MsgId>
+</xml>
+2018-11-20 09:07:10 T 
+
+2018-11-20 09:07:53 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542676072</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[的发你发的呢]]></Content>
+<MsgId>6625743277988634540</MsgId>
+</xml>
+2018-11-20 09:07:54 T 
+
+2018-11-20 09:33:31 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542677610</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会的话]]></Content>
+<MsgId>6625749883648335790</MsgId>
+</xml>
+2018-11-20 09:33:31 T 
+
+2018-11-20 09:33:58 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542677637</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北大法宝]]></Content>
+<MsgId>6625749999612452784</MsgId>
+</xml>
+2018-11-20 09:33:58 T 
+
+2018-11-20 09:34:47 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542677687</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625750214360817586</MsgId>
+</xml>
+2018-11-20 09:34:48 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542677688</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 09:36:47 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542677806</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你们]]></Content>
+<MsgId>6625750725461925812</MsgId>
+</xml>
+2018-11-20 09:36:47 T 
+
+2018-11-20 10:10:02 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542679801</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625759293921681336</MsgId>
+</xml>
+2018-11-20 10:10:03 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542679803</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:31:33 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681092</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625764838724460474</MsgId>
+</xml>
+2018-11-20 10:31:34 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681094</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:34:17 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681257</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好啊]]></Content>
+<MsgId>6625765547394064316</MsgId>
+</xml>
+2018-11-20 10:34:18 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681258</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:35:58 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681357</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625765976890793917</MsgId>
+</xml>
+2018-11-20 10:35:58 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681358</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:36:39 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681398</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625766152984453054</MsgId>
+</xml>
+2018-11-20 10:36:39 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681399</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:37:54 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681474</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6625766479401967551</MsgId>
+</xml>
+2018-11-20 10:37:55 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681475</CreateTime>
+    <MsgType><![CDATA[transfer_customer_service]]></MsgType>
+</xml>
+2018-11-20 10:45:47 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542681946</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文本]]></Content>
+<MsgId>6625768506626531264</MsgId>
+</xml>
+2018-11-20 10:45:48 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1542681948</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[这是个文本消息]]></Content>
+</xml>
+2018-11-20 10:47:56 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1542682076</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[是的]]></Content>
+<MsgId>6625769064972279746</MsgId>
+</xml>
+2018-11-20 10:47:57 T 
+
+2018-12-13 13:24:19 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1544678658</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[文本]]></Content>
+<MsgId>6634344319366062021</MsgId>
+</xml>
+2018-12-13 13:24:19 T 
+<xml>
+    <ToUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_3b50ff168d85]]></FromUserName>
+    <CreateTime>1544678659</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[这是个文本消息]]></Content>
+</xml>
+2018-12-13 13:24:23 R 
+<xml><ToUserName><![CDATA[gh_3b50ff168d85]]></ToUserName>
+<FromUserName><![CDATA[oOHd306QdD-CAIuTJigcPgSNF2SQ]]></FromUserName>
+<CreateTime>1544678651</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[啦啦]]></Content>
+<MsgId>6634344289301290948</MsgId>
+</xml>
+2018-12-13 13:24:23 T 
+
+2018-12-19 16:07:58 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545206878,
+"MsgType": "text",
+"Content": "啦啦",
+"MsgId": 6636613006995949294
+}
+
+2018-12-19 16:16:16 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545207375,
+"MsgType": "text",
+"Content": "啦啦",
+"MsgId": 6636615141594695408
+}
+
+2018-12-19 16:18:15 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545207494,
+"MsgType": "text",
+"Content": "啦啦",
+"MsgId": 6636615652695803634
+}
+
+2018-12-19 16:19:11 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545207551,
+"MsgType": "text",
+"Content": "啦啦",
+"MsgId": 6636615897508939508
+}
+
+2018-12-19 16:19:51 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545207591,
+"MsgType": "text",
+"Content": "太可怜了",
+"MsgId": 6636616069307631350
+}
+
+2018-12-22 18:37:42 R 
+{"ToUserName":"gh_b2d281bfa27a","FromUserName":"oyfkK0UBpKYu4U_Mu9wjs-iG6nZA","CreateTime":1545475062,"MsgType":"event","Event":"user_enter_tempsession","SessionFrom":"wxapp"}
+2018-12-22 18:37:47 R 
+{
+"ToUserName": "gh_b2d281bfa27a",
+"FromUserName": "oyfkK0UBpKYu4U_Mu9wjs-iG6nZA",
+"CreateTime": 1545475066,
+"MsgType": "text",
+"Content": "啦啦",
+"MsgId": 6637764865685128953
+}
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+        <meta name="format-detection" content="telephone=no">
+    </head>
+    <body>
+        <div>领红包</div>
+        <script src="https://cdn.bootcss.com/clipboard.js/1.7.1/clipboard.min.js"></script>
+        <script>
+        var clipboard = new Clipboard('.hongbao', {
+        text: function () {
+        // 将自己的红包口令放入此
+        return 'giB8ij82dv';
+        }
+        });
+        </script>
+        <button class="hongbao"><a href="http://linxinran.cn">我要领红包</a></button>
+    </body>
+</html>

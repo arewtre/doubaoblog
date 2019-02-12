@@ -1,0 +1,73 @@
+.con{width: 100%; float: left;}
+.con .manage{ padding: 0px 30px; }
+.con .manage .mark{padding: 10px;  border: 1px dashed #e5e5e5; background: #fcf8e3; border-radius: 3px; margin-top:25px; }
+.con .manage .mark p{ line-height:24px; color: #666; font-size: 13px; margin: 0;}
+/**内容部分**/
+.con .conMain{ float: left; width: 100%; margin-top: 25px;}
+.con .conMain .cTitle{ float: left; height: 40px; line-height: 40px;width: 100%}
+.con .conMain .cTitleList{text-align:left; text-indent:5px;}
+.con .conMain .cTitle a{ color:#428bca; text-indent:15px;}
+.con .conMain .cTitle i{ color:#428bca;margin-right: 3px; }
+.con .conMain .cTitle a:hover{ color:#1963AA }
+
+.con .conMain .listScroll{ overflow-y: scroll; height: 612px;overflow-x: hidden;}
+.con .conMain .cLeft{ width: 150px; float: left; margin-left: 30px;}
+.con .conMain .cLeft .cateList{ width:148px; float: left;background: #f6f6f6; border: 1px solid #e5e5e5; border-radius:3px;
+        padding:20px 0 ;overflow-y: scroll;overflow-x: hidden; height:570px;}
+.con .conMain .cLeft .cateList ul{ width: 100%; float: left;border-bottom: 1px dashed  #e5e5e5; font-size: 15px; }
+.con .conMain .cLeft .cateList li{ width: 100%; float: left; height: 42px; line-height: 42px; border-top: 1px dashed  #e5e5e5 }
+    .con .conMain .cLeft .cateList li a{display: block;height: 42px; line-height: 42px;color: #333; padding-left: 10px;}
+.con .conMain .cLeft .cateList li a i{ margin-right: 3px;}
+.con .conMain .cLeft .cateList li a:hover{color:#428bca; text-decoration: none;}
+.con .conMain .cLeft .cateList li.active{ float: left}
+.con .conMain .cLeft .cateList li.active a{color:#428bca; text-decoration: none;}
+
+
+.con .conMain .cRight{ position: relative;min-width: 900px;  }
+.con .conMain .cRight .list{ position: absolute;left:190px;right:30px;min-width:900px;}
+.con .conMain .cRight .list .listCon{width: 100% ; float: left;}
+.con .conMain .cRight .list .listScroll{ overflow-y: scroll; height: 612px;overflow-x: hidden;}
+.con .conMain .cRight .list .configDiv{min-height: 612px; overflow: hidden;}
+.con .conMain .cRight .list .listCon ul{ width: 100%; float: left;border-bottom: 1px solid #ddd; overflow: hidden}
+.con .conMain .cRight .list .listCon li{ width: 100%; float: left; height: 46px; line-height: 46px;border-top: 1px solid #ddd;background: #f9f9f9 }
+.con .conMain .cRight .list .listCon li:nth-child(2n){background: #fff }
+.con .conMain .cRight .list .listCon li .options{border-left: 1px solid #ddd  ;border-right: 1px solid #ddd; height: 46px;  }
+.con .conMain .cRight .list .listCon li .one{ background: #eee}
+
+.con .conMain .cRight .list .listCon li .options dl{width: 100%; float: left;height: 46px;line-height: 46px; }
+.con .conMain .cRight .list .listCon li .options dt{ float: left;  width: 20%; padding: 0 8px; height: 46px; }
+.con .conMain .cRight .list .listCon li .options dt.opt_sort{ width: 10%}
+.con .conMain .cRight .list .listCon li .options dd{ float: left; border-left:1px solid #ddd; padding: 0 8px;height: 46px;}
+.con .conMain .cRight .list .listCon li .options dd.opt_name{ color: #428bca;width:20%;}
+.con .conMain .cRight .list .listCon li .options dd.nameColor{ color: #333;}
+.con .conMain .cRight .list .listCon li .options dd.sign{float: left; width:10%; }
+.con .conMain .cRight .list .listCon li .options dd.opt_id{ float: left;width:15%;}
+.con .conMain .cRight .list .listCon li .options dd.operating{ float: left;width:auto;}
+
+.con .conMain .cRight .list .listCon li .options dd.operating input{ float: left;margin-right:10px; margin-top: 10px;}
+.con .conMain .cRight .list .listCon li .options dd.operating a{ color:#428bca; margin-right: 10px; float: left }
+.con .conMain .cRight .list .listCon li .options dd.operating a:hover{ color:#1963AA; }
+
+.con .conMain .cRight .list .listCon li .options input.opt{ width:90%; height:30px; line-height: 30px; border: 1px solid #ddd;
+    float: left; padding: 0 5px; outline: none; margin: 7px 0; box-shadow: none}
+.con .conMain .cRight .list .listCon li .options input.sort{ width: 80%}
+.con .conMain .cRight .list .listCon li .options input.sub{padding: 0 15px;height: 25px; line-height: 25px;color: #fff;border-radius: 3px;
+    border: 1px solid #009688;cursor: pointer; margin-right: 5px; font-size: 13px;}
+.con .conMain .cRight .list .listCon li .options input.sub:hover{ background: #009688}
+.con .conMain .cRight .list .listCon li .options input.but{ background: #e6e6e6; border: 1px solid #ccc; color: #333333}
+.con .conMain .cRight .list .listCon li .options input.but:hover{ background: #ddd}
+
+/*网站配置*/
+.con .conMain .cRight .list .listCon li .options dd.config_opt_name{ color: #428bca;width:20%;}
+.con .conMain .cRight .list .listCon li .options dd.config_opt_id{ float: left;min-width:20%;}
+.config_content_input{width: 220px!important;}
+.config_descride_li{min-height: 150px!important;}
+.config_descride_li div,dl,dd{}
+.config_descride_li textarea{width: 300px!important;height: 120px;}
+.lineheight150{line-height: 150px!important;height: 150px!important;}
+.lineheight150 input{float: none!important;}
+.config_err em{color: #f93b3b;}
+.config_left{text-align: left;}
+.config_right{text-align: right;}
+.config_bordernone{border: none!important;}
+.config_green{color:green;}

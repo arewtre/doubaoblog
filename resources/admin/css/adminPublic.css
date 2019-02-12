@@ -1,0 +1,65 @@
+/*分页样式*/
+.pagination .disabled{ width:36px; text-align: center }
+.pagination .active{ width:36px; text-align: center}
+
+/**flash弹出层显示**/
+.alert{padding: 5px 10px; border: 1px dashed #e5e5e5; height: 30px; line-height: 30px; background: #fcf8e3; color: #666;
+    border-radius: 3px; margin-bottom: 6px; font-size: 13px;}
+
+/*错误提示层*/
+.main_box{overflow-y: scroll;}
+.main_box .crumb_warp{ min-width: 1100px;}
+.main_box .con{width: 100%; float: left;}
+.main_box .con .manage{ padding: 0px 30px;margin-top: 15px; }
+.main_box .con .manage .mark{padding: 10px;  border: 1px dashed #e5e5e5; background: #fcf8e3; border-radius: 3px;}
+.main_box .con .manage .mark p{ line-height:24px; color: #666; font-size: 13px; margin: 0;}
+
+/*主体内容*/
+.main_box .con .conMain{float: left; width: 100%; margin-top: 0px;min-width: 1100px;}
+.main_box .con .conMain .result_wrap{padding:0 30px;font-size: 14px;border-bottom: 1px solid #e5e5e5; height: 80px; }
+.main_box .con .conMain .result_wrap .cTitle{height: 40px; line-height:40px; color: #333; font-weight: bold; width: 100%; float: left }
+.main_box .con .conMain .result_wrap .cContent{ width: 100%; float: left;height: 30px; line-height:30px;   }
+.main_box .con .conMain .result_wrap .cContent span{ margin-right: 20px; font-size: 14px;}
+.main_box .con .conMain .result_wrap .cContent span a{ color: #428bca}
+.main_box .con .conMain .result_wrap .cContent span a:hover{ color: #1963AA}
+
+
+/*添加列表*/
+.main_box .con .conMain .conInfo{padding:0 30px; margin-top:12px; }
+.main_box .con .conMain .conInfo .conAddList{ width: 100%; float: left; border-top: 1px solid #eee; padding-bottom: 30px;}
+.main_box .con .conMain .conInfo .conAddList dl{ position: relative; border: 1px solid #eee; height: 46px; line-height: 46px; border-top: none }
+.main_box .con .conMain .conInfo .conAddList dt{ width:115px; height: 46px; float: left; line-height: 46px; border-right:1px solid #eee; color: #444;
+    text-align: right; padding-right:15px;}
+.main_box .con .conMain .conInfo .conAddList dd{ position: absolute; left:141px; top :0px; right: 10px; color: #444; }
+.main_box .con .conMain .conInfo .conAddList .addresponsible{ margin-left: 5px;}
+
+    /*列表*/
+.main_box .con .conMain .conInfo .conList{ width: 100%; float: left; border-top: 1px solid #eee;}
+.main_box .con .conMain .conInfo .conList dl{ position: relative; border: 1px solid #eee; height: 46px; line-height: 46px;;color: #333; border-top: none;background: #f9f9f9}
+.main_box .con .conMain .conInfo .conList dl.one{background: #ddd  }
+.main_box .con .conMain .conInfo .conList dl.one dt{color: #333  }
+.main_box .con .conMain .conInfo .conList dl:nth-child(2n){background: #fff }
+.main_box .con .conMain .conInfo .conList dt{ float: left;  width: 20%; padding: 0 8px; height: 46px; color: #428bca; }
+.main_box .con .conMain .conInfo .conList dd{float: left;border-left:1px solid #eee; width: 20%;  padding: 0 8px; height: 46px; }
+.main_box .con .conMain .conInfo .conList dd a{ color:#428bca; margin-right: 10px; float: left }
+.main_box .con .conMain .conInfo .conList dd a:hover{ color:#1963AA; }
+
+.main_box .con .conMain .conInfo .conList .nullcon{ width:100%;height:60px; line-height:60px; margin-top: 15px;  text-align:center; font-size:15px; color:#888;}
+/**添加返回按钮**/
+.main_box .con .conMain .conInfo input.inpText{ padding: 0px  5px;  height: 28px; line-height: 28px; outline: none; width: 400px; }
+.main_box .con .conMain .conInfo input.sub{ padding: 0 20px;height: 25px; line-height: 25px;color: #fff;border-radius: 3px;
+    border: 1px solid #286090;cursor: pointer; margin-right: 5px; font-size:13px;}
+.main_box .con .conMain .conInfo input.sub:hover{ background: #286090}
+.main_box .con .conMain .conInfo input.but{ background: #e6e6e6; border: 1px solid #ccc; color: #333333}
+.main_box .con .conMain .conInfo input.but:hover{ background: #ddd}
+
+
+/*分页样式*/
+.page_list { margin-top: 25px; width: 100%; float: left;}
+.page_list ul {width: auto; overflow: hidden; border: 1px solid #ddd; border-radius: 3px; padding: 0; margin: 0; display: inline-block;}
+.page_list ul li { float: left;  border: none; height: 30px; line-height: 30px; border-right: 1px solid #ddd; min-width:25px;}
+.page_list ul li span{ height: 30px; line-height: 30px;  width: 100%; float: left; min-width:25px; color: #F45059; background:#f8f8f8 }
+.page_list ul li a {  padding: 6px 12px;  text-decoration: none}
+.page_list ul li a:hover {  background: #f0f0f0}
+.page_list ul li.active span {color: #ff4400;cursor: default;background: #f0f0f0;border: #337ab7; width: 100%; float: left;padding: 0}
+

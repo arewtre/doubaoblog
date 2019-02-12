@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.3.2.js"></script>
+</head>
+<body>
+
+<div class="to">点击跳小程序</div>
+<script>
+    $(".to").click(function() {
+        wx.miniProgram.getEnv(function (res) {
+            //alert(res.miniprogram);
+            if (res.miniprogram) {
+                wx.miniProgram.switchTab({url: '/pages/index/index'});
+                //wx.miniProgram.postMessage({data: {id: '1234'}}); // 传的参数
+            }
+        });
+    })
+</script>
+</body>
+</html>
